@@ -9,6 +9,12 @@ Based off of the excellent work of TheBrickMatt for the Amazon Echo:
 https://github.com/TheBrickMatt/alexa-pugbomb
 
 Install guide:
+
+Now requires up-to-date npm:
+
+`sudo apt-get install npm`
+
+
 ```
 git clone https://github.com/mmorehea/DebPugBomb.git
 cd DebPugBomb
