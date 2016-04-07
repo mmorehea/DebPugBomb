@@ -1,2 +1,2 @@
-cp pugbomb.sh /usr/bin/pugbomb
-cp pugtext.txt /usr/bin/pugtext.txt
+sudo cp pugbomb.sh /usr/bin/pugbomb
+sudo cp pugtext.txt /usr/bin/pugtext.txt
