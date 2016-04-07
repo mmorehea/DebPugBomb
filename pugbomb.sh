@@ -5,3 +5,4 @@ LINE=`sed "${D}q;d" /usr/bin/pugtext.txt`
 pico2wave -l=en-GB -w=/tmp/pug.wav "$LINE"
 aplay -q /tmp/pug.wav
 rm /tmp/pug.wav
+

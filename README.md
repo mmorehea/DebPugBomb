@@ -9,8 +9,10 @@ Based off of the excellent work of TheBrickMatt for the Amazon Echo:
 https://github.com/TheBrickMatt/alexa-pugbomb
 
 Install guide:
-`git clone https://github.com/mmorehea/DebPugBomb.git
+```
+git clone https://github.com/mmorehea/DebPugBomb.git
 cd DebPugBomb
 sudo chmod +x setup.sh
 
-pugbomb`
+pugbomb
+```
